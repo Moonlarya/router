@@ -2,7 +2,7 @@
   "name": "router",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://moonlarya.github.io/router",
+  "homepage": "http://moonlarya.github.io/router/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",

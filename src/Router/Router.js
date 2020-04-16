@@ -5,7 +5,7 @@ import Navigation from "../components/Navigation";
 import { Home, Contacts, Posts, Photos } from "../pages";
 
 const RouteSchema = () => (
-  <Router>
+  <Router basename={process.env.PUBLIC_URL}>
     <Switch>
       <Navigation exact path="/" component={Home} />
       <Navigation exact path="/posts" component={Posts} />

@@ -6,7 +6,7 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <h1>Де є любов, там є життя</h1>
+        <h1 className="quote">Де є любов, там є життя</h1>
         <div className="two_sides_block">
           <div className="letter">
             <p>

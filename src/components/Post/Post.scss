@@ -1,0 +1,41 @@
+.wrapper {
+  margin: 10% auto;
+  width: max-content;
+}
+.post {
+  background-color: #333333;
+  padding: 20px;
+  display: flex;
+  width: 700px;
+}
+.photo img {
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+}
+.headLine {
+  display: flex;
+  margin: -15px 0;
+}
+.author {
+  color: #fafafa;
+  font-size: 20px;
+}
+.sub {
+  color: #999999;
+  font-size: 18px;
+  line-height: 3.2em;
+  margin: 0 5px;
+}
+.content {
+  color: #fafafa;
+  margin: -10px 0;
+}
+.post_container {
+  margin-left: 10px;
+}
+.post_image {
+  border-radius: 20px;
+  width: 100%;
+  margin: 23px 0;
+}

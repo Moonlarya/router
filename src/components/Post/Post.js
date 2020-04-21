@@ -3,7 +3,7 @@ import "./Post.scss";
 
 const Post = (props) => {
   return (
-    <div className="wrapper">
+    <div className="post_wrapper">
       <header className="post">
         <div className="photo">
           <img src={props.author.photo}></img>
